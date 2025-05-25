@@ -14,4 +14,4 @@ Overall, AI represents both an opportunity and a challenge for modern society. I
 
 ## Output
 
-![Output](images/keyword_chart.png)
+![Output](keyword_chart.png)
