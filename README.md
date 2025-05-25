@@ -1,5 +1,7 @@
 # textrank_keyword_extractor
 
+This project demonstrates keyword extraction using the TextRank algorithm implemented with NLTK. It processes input text by tokenizing, POS tagging, lemmatizing, and building a word co-occurrence graph to identify the most relevant terms. The results are visualized using a bar chart for better interpretability.
+
 ## Input Text
 
 Artificial Intelligence (AI) is rapidly transforming industries across the globe. From healthcare and education to finance and transportation, AI is improving efficiency, accuracy, and decision-making capabilities. In healthcare, AI-powered systems assist doctors in diagnosing diseases such as cancer more quickly and accurately. Machine learning algorithms analyze vast amounts of patient data to identify patterns that humans may miss.
